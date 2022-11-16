@@ -7,5 +7,6 @@
 <p align="center">
 - 💬 For any questions reach me from 41.erenelmas@gmail.com
 
-<img align="center">
-![giphy (1)](https://user-images.githubusercontent.com/84076408/202187651-bb2b5a1f-d9ca-416a-a37a-86b4004271c6.gif)
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/84076408/202187651-bb2b5a1f-d9ca-416a-a37a-86b4004271c6.gif)">
+</p>
